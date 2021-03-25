@@ -28,6 +28,4 @@ class WelcomeViewController: UIViewController {
         super.viewWillDisappear(animated)
         navigationController?.isNavigationBarHidden = false
     }
-    
-
 }
